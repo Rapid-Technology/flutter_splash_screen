@@ -1,6 +1,8 @@
 # Flutter Splash Screen
 
-A new Flutter application.
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ufer4QTFTO8
+" target="_blank"><img src="http://img.youtube.com/vi/ufer4QTFTO8/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Getting Started
 
